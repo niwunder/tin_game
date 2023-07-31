@@ -1,1 +1,1 @@
-# tin_game
+This repository contains project data for the development of a game that supports tinnitus therapy via acoustic stimulation. The goal is to increase patients' attention towards sometimes boring or even annoying acoustic stimuli by embedding them in an entertaining game environment where those stimuli help to complete missions.
